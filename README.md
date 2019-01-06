@@ -1,4 +1,4 @@
-# SlimApp RESTful API
+# PHP Slim RESTful API
 
 This is a RESTful api built with the SlimPHP framework and uses MySQL for storage.
 
